@@ -1,4 +1,4 @@
-# BackBase UI Automation Assignment
+# Puppeteer
 
 TypeScript based framework to run functional tests for BBLog
 
